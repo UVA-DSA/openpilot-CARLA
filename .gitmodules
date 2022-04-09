@@ -1,0 +1,3 @@
+[submodule "openpilot0.8.9"]
+	path = openpilot0.8.9
+	url = https://github.com/gitguige/openpilot0.8.9.git
